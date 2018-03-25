@@ -1,1 +1,3 @@
 threshold [60, 255] means areas crossing threshold will be white? -> Yes
+working with existing video file
+how to write video, image to file
