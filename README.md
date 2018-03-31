@@ -3,6 +3,7 @@ This repo contains Jupyter notebooks, images and pretrained dnn blobs used for a
 
 ## Credits
 Many of the files were pulled from the following links. I am immensely thankful to these generous folks :)   
+
 https://codewords.recurse.com/issues/six/image-processing-101  
 
 https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/  
